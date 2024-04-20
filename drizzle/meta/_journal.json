@@ -1,0 +1,41 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1713548541884,
+      "tag": "0000_giant_tony_stark",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1713548942496,
+      "tag": "0001_stale_moon_knight",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1713548971517,
+      "tag": "0002_robust_dragon_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1713549528428,
+      "tag": "0003_tiresome_venus",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1713549653208,
+      "tag": "0004_worthless_epoch",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "be090ee7-d781-476d-80d3-6b71e862afa1",
+  "prevId": "bca8c3f5-ac8d-4da1-9206-73b8f4207c99",
+  "version": "5",
+  "dialect": "pg",
+  "tables": {
+    "todo": {
+      "name": "todo",
+      "schema": "",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "serial",
+          "primaryKey": true,
+          "notNull": true
+        },
+        "todo": {
+          "name": "todo",
+          "type": "varchar",
+          "primaryKey": false,
+          "notNull": true
+        }
+      },
+      "indexes": {},
+      "foreignKeys": {},
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {}
+    }
+  },
+  "enums": {},
+  "schemas": {},
+  "_meta": {
+    "columns": {},
+    "schemas": {},
+    "tables": {}
+  }
+}
